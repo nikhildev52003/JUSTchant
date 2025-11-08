@@ -1,4 +1,4 @@
-import { Counter } from './pages/counter'
+import { Counter } from './pages/counter.jsx'
 import './App.css'
 
 function App() {
